@@ -1,0 +1,38 @@
+# _data folder is created manually, see https://github.com/mmistakes/jekyll-theme-basically-basic#starting-fresh
+
+# 6 Skins include: 
+# default, night, plum, sea, soft and steel
+skin: soft
+
+# Custom fonts
+google_fonts:
+  - name: "Noto Sans JP"
+    weights: "400,900"
+  - name: "Noto Sans"
+
+# Custom text
+t:
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu: "Menu"
+  search: "Search"
+  site_search: "Site Search"
+  results_found: "Result(s) found"
+  search_placeholder_text: "Enter your search term..."
+  home: "Home"
+  newer: "Newer"
+  older: "Older"
+  email: "Email"
+  subscribe: "Subscribe"
+  read_more: "Read More"
+  posts: "Updates"
+  page: "Page"
+  of: "of"
+  min_read: "min read"
+  present: "Present"
+
+# Navigation Pages
+navigation_pages:
+  - projects.md
