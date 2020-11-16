@@ -6,10 +6,29 @@ layout: home
 title: "Hi there! 👋"
 
 ---
-My name's Tiffany and I'm a mobile developer at [Shopify](https://www.shopify.com/). Here are some quick fun facts:
 
-* The Chinese text above is my Chinese name at birth. 
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-right: 5%;
+      width: 30%;
+      height: 30%;
+      float: right;
+    }
+</style>
+
+![Avatar](/assets/images/avatar.png){: .image-left}
+
+My name's Tiffany and I'm a mobile developer at [Shopify](https://www.shopify.com/).
+
+
+Here are some quick fun facts:
+
+* The Chinese text above is my Chinese name at birth.
 * I'm currently located in Canada 🇨🇦 but I love to travel.
-* I accept any ☕, 🍵, or 🍣 [support](https://www.buymeacoffee.com/tiffanyip). 
+* I accept any ☕, 🍵, or 🍣 [support](https://www.buymeacoffee.com/tiffanyip).
 
-This blog contains my personal ramblings, observations and developer findings. 
+
+This blog contains my personal ramblings, observations and developer findings.
