@@ -25,7 +25,7 @@ My name's Tiffany and I'm a mobile developer at [Shopify](https://www.shopify.co
 
 Here are some quick fun facts:
 
-* The Chinese text above is my Chinese name, you can pronounce it like "`Jip Man Yan`" in Cantonese [(listen)](https://www.bing.com/translator?ref=TThis&&text=&from=yue&to=en).
+* The Chinese text above is my Chinese name, you can pronounce it like "`Yip Man Yan`" in Cantonese [(listen)](https://www.bing.com/translator?ref=TThis&&text=&from=yue&to=en).
 * I'm currently located in Canada 🇨🇦 but I love to travel.
 * I accept any ☕, 🍵, or 🍣 [support](https://www.buymeacoffee.com/tiffanyip).
 
